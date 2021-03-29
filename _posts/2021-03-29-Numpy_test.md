@@ -459,9 +459,7 @@ plt.hist(a, bins=100)
      <a list of 100 Patch objects>)
 
 
-
-
-![png](output_32_1.png)
+![image-center](/assets/images/output_32_1.PNG){: .align-center}
 
 
 
@@ -1383,9 +1381,7 @@ plt.hist(a, bins=100)
      <a list of 100 Patch objects>)
 
 
-
-
-![png](output_91_1.png)
+![image-center](/assets/images/output_91_1.PNG){: .align-center}
 
 
 
@@ -1623,10 +1619,7 @@ plt.hist(a, bins=100)
      <a list of 100 Patch objects>)
 
 
-
-
-![png](output_107_1.png)
-
+![image-center](/assets/images/output_107_1.PNG){: .align-center}
 
 
 ```python
@@ -1673,8 +1666,7 @@ plt.hist(a, bins=100)
 
 
 
-![png](output_108_2.png)
-
+![image-center](/assets/images/output_108_2.PNG){: .align-center}
 
 
 ```python
@@ -1762,7 +1754,7 @@ plt.hist(a, bins=100)
 
 
 
-![png](output_110_2.png)
+![image-center](/assets/images/output_110_2.PNG){: .align-center}
 
 
 ## 수학, 통계 계산을 위한 함수
@@ -3385,8 +3377,7 @@ plt.show()
 ```
 
 
-![png](output_239_0.png)
-
+![image-center](/assets/images/output_239_0.PNG){: .align-center}
 
 
 ```python
@@ -3779,12 +3770,10 @@ plt.show()
      [6 7 8]]
     
 
-
-![png](output_261_1.png)
-
+![image-center](/assets/images/output_261_1.PNG){: .align-center}
 
 
-![png](output_261_2.png)
+![image-center](/assets/images/output_261_2.PNG){: .align-center}
 
 
 ## 최종실습
@@ -3999,6 +3988,4 @@ plt.plot(b)
 plt.show()
 ```
 
-
-![png](output_272_0.png)
-
+![image-center](/assets/images/output_272_0.PNG){: .align-center}
