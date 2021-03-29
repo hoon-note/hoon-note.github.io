@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Python Numpy"
+---
+
+
 ```python
 import numpy as np
 ```
