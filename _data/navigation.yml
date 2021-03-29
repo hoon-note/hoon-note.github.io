@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Python"
+   title: "Python"
     url: https://hoon-note.github.io/
-   - title: "About"
+    title: "About"
      url: https://hoon-note.github.io/
-   - title: "Sample Posts"
+    title: "Sample Posts"
      url: https://hoon-note.github.io/
-   - title: "Sample Collections"
+    title: "Sample Collections"
      url: https://hoon-note.github.io/
   # - title: "Sitemap"
   #   url: /sitemap/
