@@ -1,3 +1,7 @@
+---
+layout: single
+title: 'Python ML Overfitting'
+---
 ## 과적합 (Overfitting)
 
 - 복잡한 모형일수록, 데이터가 적을수록 과적합이 발생하기 쉬움
