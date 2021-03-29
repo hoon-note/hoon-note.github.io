@@ -5,7 +5,7 @@ main:
  - title: "About"
    url: https://hoon-note.github.io/
  - title: "Sample Posts"
-   url: https://hoon-note.github.io/
+   url: https://hoon-note.github.io/_posts/
  - title: "Sample Collections"
    url: https://hoon-note.github.io/
   # - title: "Sitemap"
