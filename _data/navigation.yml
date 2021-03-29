@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "Python"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url:https://hoon-note.github.io/
    - title: "About"
-     url: https://mmistakes.github.io/minimal-mistakes/about/
+     url:https://hoon-note.github.io/
    - title: "Sample Posts"
-     url:https://mmistakes.github.io/minimal-mistakes/about/
+     url:https://hoon-note.github.io/
    - title: "Sample Collections"
-     url: https://mmistakes.github.io/minimal-mistakes/about/
+     url:https://hoon-note.github.io/
   # - title: "Sitemap"
   #   url: /sitemap/
