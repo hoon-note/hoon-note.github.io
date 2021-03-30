@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Python ML Overfitting'
+title: 'Python MLmulticollinearity(다중공선성)'
 ---
 ![image-center](/assets/images/다중공선성.PNG){: .align-center}
 
