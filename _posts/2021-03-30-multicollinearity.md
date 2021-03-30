@@ -1,6 +1,8 @@
-![다중공선성](C:\Users\훈\Desktop\다중공선성.PNG)
-
-
+---
+layout: single
+title: 'Python ML Overfitting'
+---
+![image-center](/assets/images/다중공선성.PNG){: .align-center}
 
 ## 다중공선성과 변수 선택¶
 
@@ -46,8 +48,8 @@ sns.pairplot(dfX)
 
 
 
+![image-center](/assets/images/output_1_1.png){: .align-center}
 
-![png](output_1_1.png)
 
 
 ### 상관관계는 상관계수 행렬로도 살펴볼 수 있다.
@@ -154,8 +156,8 @@ sns.heatmap(dfX.corr(), annot=True, cmap=cmap)
 plt.show()
 ```
 
+![image-center](/assets/images/output_4_0.png){: .align-center}
 
-![png](output_4_0.png)
 
 
 ### 데이터셋을 나누고 모델을 fit 후 summary로 공분산 행렬의 조건수 확인
@@ -411,6 +413,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![다중2](C:\Users\훈\Desktop\다중2.PNG)
+![image-center](/assets/images/다중2.PNG){: .align-center}
+
 
 
