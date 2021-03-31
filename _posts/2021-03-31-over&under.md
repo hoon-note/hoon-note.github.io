@@ -279,7 +279,7 @@ Train_Y.value_counts().iloc[0] / Train_Y.value_counts().iloc[-1]
 # kNN을 사용한 클래스 불균형 테스트
 from sklearn.neighbors import KNeighborsClassifier as KNN
 from sklearn.metrics import *
-
+ 
 kNN_model = KNN(n_neighbors = 11).fit(Train_X, Train_Y)
 pred_Y = kNN_model.predict(Test_X)
 print(recall_score(Test_Y, pred_Y))
@@ -290,9 +290,11 @@ print(accuracy_score(Test_Y, pred_Y))
 
     0.6470588235294118
     0.9532163742690059
-![image-center](/assets/images/Near.PNG){: .align-center}
+
 
 ```python
+![image-center](/assets/images/Near.PNG){: .align-center}
+
 from imblearn.under_sampling import NearMiss
 NM_model = NearMiss(version = 2) # version = 2: 모든 소수 클래스 샘플까지의 평균 거리를 활용
 
