@@ -133,7 +133,11 @@ print(accuracy_score(Test_Y, pred_Y)) # 정확도
 
     0.0
     0.9387755102040817
+
+```
 ![image-center](/assets/images/smote.PNG){: .align-center}
+```
+
 
 
 ```python
@@ -290,10 +294,11 @@ print(accuracy_score(Test_Y, pred_Y))
 
     0.6470588235294118
     0.9532163742690059
-
-
-```python
+```
 ![image-center](/assets/images/Near.PNG){: .align-center}
+```
+```python
+
 
 from imblearn.under_sampling import NearMiss
 NM_model = NearMiss(version = 2) # version = 2: 모든 소수 클래스 샘플까지의 평균 거리를 활용
@@ -338,8 +343,9 @@ print(accuracy_score(Test_Y, pred_Y))
     0.22514619883040934
 
 
-
 ```python
+
+
 from imblearn.under_sampling import NearMiss
 NM_model = NearMiss(version = 2, sampling_strategy = {1:u_Train_Y.value_counts().iloc[-1],
                                                       -1:u_Train_Y.value_counts().iloc[-1] * 5})
