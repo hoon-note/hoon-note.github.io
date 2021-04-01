@@ -380,6 +380,7 @@ print(accuracy_score(Test_Y, pred_Y))
     0.6630116959064327
 
 
-
+#### Smote
 ![image-center](/assets/images/smote.PNG){: .align-center}
+#### NearMiss
 ![image-center](/assets/images/Near.PNG){: .align-center}
