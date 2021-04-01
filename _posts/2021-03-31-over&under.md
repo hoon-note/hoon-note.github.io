@@ -136,9 +136,6 @@ print(accuracy_score(Test_Y, pred_Y)) # 정확도
 
 ```
 ![image-center](/assets/images/smote.PNG){: .align-center}
-```
-
-
 
 ```python
 from imblearn.over_sampling import SMOTE
@@ -296,7 +293,7 @@ print(accuracy_score(Test_Y, pred_Y))
     0.9532163742690059
 ```
 ![image-center](/assets/images/Near.PNG){: .align-center}
-```
+
 ```python
 
 
