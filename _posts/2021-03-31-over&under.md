@@ -134,8 +134,7 @@ print(accuracy_score(Test_Y, pred_Y)) # 정확도
     0.0
     0.9387755102040817
 
-```
-![image-center](/assets/images/smote.PNG){: .align-center}
+
 
 ```python
 from imblearn.over_sampling import SMOTE
@@ -291,8 +290,8 @@ print(accuracy_score(Test_Y, pred_Y))
 
     0.6470588235294118
     0.9532163742690059
-```
-![image-center](/assets/images/Near.PNG){: .align-center}
+
+
 
 ```python
 
@@ -381,3 +380,6 @@ print(accuracy_score(Test_Y, pred_Y))
     0.6630116959064327
 
 
+
+![image-center](/assets/images/smote.PNG){: .align-center}
+![image-center](/assets/images/Near.PNG){: .align-center}
