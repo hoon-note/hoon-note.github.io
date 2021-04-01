@@ -302,17 +302,6 @@ pandas의 get_dummies() 는 이 함수보다 간단하지만 학습데이터에 
 '''
 ```
 
-    C:\ProgramData\Anaconda3\lib\site-packages\pandas\core\ops\array_ops.py:253: FutureWarning: elementwise comparison failed; returning scalar instead, but in the future will perform elementwise comparison
-      res_values = method(rvalues)
-
-
-
-
-
-    '\npandas의 get_dummies() 는 이 함수보다 간단하지만 학습데이터에 포함된 범주형 변수를 처리한 방식으로\n새로 들어온 데이터에 적용이 불가능하기 떄문에, 실제적으로 활용이 어려움\n'
-
-
-
 
 ```python
 # 더미화한 컬럼의 값들 
