@@ -604,14 +604,6 @@ sns.violinplot(data=df,x='DEATH_EVENT',y='ejection_fraction')
 sns.swarmplot(data=df,x='DEATH_EVENT',y='platelets',hue='smoking')
 ```
 
-    /usr/local/lib/python3.6/dist-packages/seaborn/categorical.py:1296: UserWarning: 9.9% of the points cannot be placed; you may want to decrease the size of the markers or use stripplot.
-      warnings.warn(msg, UserWarning)
-
-
-
-
-
-    <matplotlib.axes._subplots.AxesSubplot at 0x7f93762a0f28>
 
 
 
@@ -1313,7 +1305,9 @@ plt.show()
 ```
 
 
-![png](output_45_0.png)
+
+![image-center](/assets/images/output_45_0.png){: .align-center}
+
 
 
 
@@ -1394,7 +1388,9 @@ plt.show()
 ```
 
 
-![png](output_48_0.png)
+
+![image-center](/assets/images/output_48_0.png){: .align-center}
+
 
 
 
