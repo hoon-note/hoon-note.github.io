@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Python ML Overfitting'
+title: 'Python ML 연습문제(학습 요소 분석하기)'
 ---
 
 #  학습 성공/실패 요소 분석해보기
