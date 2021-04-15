@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Python ML 연습문제(학습 요소 분석하기)'
+title: 'Python ML 연습문제 [성적 영향요소 분석]'
 ---
 
 #  학습 성공/실패 요소 분석해보기
