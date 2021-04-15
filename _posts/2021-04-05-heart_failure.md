@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Python ML 연습문제 (심부전증 예방하기)'
+title: 'Python ML 연습문제 [심부전증 예방 ]'
 ---
 # 데이터 분석으로 심부전증을 예방하기!
 
