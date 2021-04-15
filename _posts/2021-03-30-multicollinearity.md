@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Python ML Multicollinearity(다중공선성)'
+title: 'Python ML Multicollinearity [다중공선성]'
 ---
 ![image-center](/assets/images/다중공선성.PNG){: .align-center}
 
